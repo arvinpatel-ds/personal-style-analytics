@@ -134,3 +134,6 @@ The project investigates relationships between:
 - Color characteristics and clothing colors
 - Hair characteristics and hairstyle recommendations
 - Visual skin characteristics and skincare categories
+
+## Project Status
+- Ongoing 
