@@ -1,0 +1,14 @@
+feature,value,confidence
+face_shape,oval,0.91
+face_length,slightly_longer,0.87
+forehead,slightly_wider,0.82
+jawline,strong_defined,0.90
+eyes,almond,0.86
+eyebrows,thick_straight,0.94
+nose,straight,0.80
+cheeks,high_defined,0.85
+lips,full,0.84
+skin_type,normal_combination,0.76
+hair_type,thick_dense,0.91
+hair_texture,slightly_wavy,0.79
+color_season,deep_winter,0.81
